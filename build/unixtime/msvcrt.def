@@ -1,0 +1,4 @@
+LIBRARY msvcrt.dll
+EXPORTS
+_time32
+_mktime32

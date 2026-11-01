@@ -1,0 +1,8 @@
+{
+  "game_dir": "test",
+  "source_exe": "bk/crackme.exe",
+  "exe": "test/crackme.exe",
+  "window_title": "Elona",
+  "player": "enigma",
+  "wait": 1.2
+}
